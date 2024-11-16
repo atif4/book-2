@@ -1,2 +1,3 @@
 # firstproject
-this is my first repository
+
+the content second book is here with practice notebook
